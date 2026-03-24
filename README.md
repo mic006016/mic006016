@@ -27,7 +27,7 @@
 
 ### 🚀 Pinned Projects
 
-#### 1. 🏙️ 서울 상권 매출 예측 및 인텔리전스 대시보드
+#### 1. 🏙️ 차자조 AI: 머신러닝 기반 서울시 상권 변동성 예측 및 신규 출점 추천 서비스
 **FastAPI, React, LightGBM, SHAP, GeoJSON** | [👉 (https://github.com/mic006016/seoul-commercial-district-analysis)]
 - **공간 기반 상권 분석**: 서울시 자치구 폴리곤 데이터(GeoJSON)와 프론트엔드 Map UI를 연동하여 직관적인 공간 분석 대시보드 구축.
 - **AI 다중 분류 앙상블 모델**: OOT(Out-Of-Time) 분할 검증을 적용하여 다음 분기 상권 매출 증감률을 3단계로 예측 (Accuracy 67.2%).

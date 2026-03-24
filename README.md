@@ -8,7 +8,7 @@
 ### 💡 About Me
 - 🏙️ **Smart City & Spatial Insights**: 스마트도시 및 스마트건설 산업에 깊은 관심을 두고 있습니다. GeoJSON, QGIS 등을 활용한 공간 데이터 분석에 능숙하며, 이를 기반으로 상권 및 도시의 흐름을 읽어내는 직관적인 인사이트를 도출합니다.
 - 📊 **Data-Driven Problem Solver**: 도화엔지니어링, 나이키 등에서의 실무 경험을 바탕으로 현장의 실제 니즈를 파악합니다. 데이터 전처리부터 AI 추론 결과 리포팅까지, 비즈니스 의사결정에 직접적으로 기여하는 데이터 파이프라인을 설계합니다.
-- 💻 **End-to-End Developer**: [인공지능서비스구현 AICC(딥러닝)] 1000시간 이상의 집중적인 개발 훈련을 거치며 AI 모델링(LightGBM, CNN, RAG)뿐만 아니라, 백엔드(FastAPI, Node.js) 아키텍처 설계와 AWS/Docker 기반의 무중단 CI/CD 배포 역량까지 탄탄하게 갖추었습니다.
+- 💻 **End-to-End Developer**: [인공지능서비스구현 AICC(딥러닝)] 1,000시간 이상의 집중적인 개발 훈련을 거치며 AI 모델링(LightGBM, CNN, RAG)뿐만 아니라, 백엔드(FastAPI, Node.js) 아키텍처 설계와 AWS/Docker 기반의 무중단 CI/CD 배포 역량까지 탄탄하게 갖추었습니다.
 
 <br>
 

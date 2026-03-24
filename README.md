@@ -28,19 +28,19 @@
 ### 🚀 Pinned Projects
 
 #### 1. 🏙️ 서울 상권 매출 예측 및 인텔리전스 대시보드
-**FastAPI, React, LightGBM, SHAP, GeoJSON** | [👉 Repository Link]
+**FastAPI, React, LightGBM, SHAP, GeoJSON** | [👉 (https://github.com/mic006016/seoul-commercial-district-analysis)]
 - **공간 기반 상권 분석**: 서울시 자치구 폴리곤 데이터(GeoJSON)와 프론트엔드 Map UI를 연동하여 직관적인 공간 분석 대시보드 구축.
 - **AI 다중 분류 앙상블 모델**: OOT(Out-Of-Time) 분할 검증을 적용하여 다음 분기 상권 매출 증감률을 3단계로 예측 (Accuracy 67.2%).
 - **XAI 기반 인사이트 도출**: SHAP를 활용해 '고물가 저항형 위축 상권', '기저효과 반등형 상권' 등 도시계획 및 창업 결정에 필요한 실질적 요인 분석.
 
 #### 2. ✈️ TRIPY: 지능형 개인화 여행 일정 & 스마트 앨범 플랫폼
-**Node.js, FastAPI, React, Docker, AWS** | (https://github.com/mic006016/multimodal-travel-scheduler)
+**Node.js, FastAPI, React, Docker, AWS** | (👉 https://github.com/mic006016/multimodal-travel-scheduler)
 - **MSA 아키텍처 도입**: Node.js(메인)와 FastAPI(AI 추론) 투트랙 서버 구성으로 확장성 및 유지보수성 극대화.
 - **Computer Vision & 공간 데이터**: EXIF 메타데이터 추출 및 역지오코딩(OpenStreetMap)을 통한 위치 기반 자동 분류 적용.
 - **Data-Centric AI 최적화**: EfficientNetV2 기반 이미지 분류 모델 학습 및 Grad-CAM을 활용한 모델 의사결정 시각화.
 - **DevOps**: Docker Compose 및 GitHub Actions를 활용한 무중단 CI/CD 자동화 파이프라인 구축.
 
 #### 3. 🧠 Local LLM & RAG API Server
-**FastAPI, Ollama, ChromaDB, Redis** | [👉 Repository Link]
+**FastAPI, Ollama, ChromaDB, Redis** | [👉 (https://github.com/mic006016/ollama_test)]
 - **보안 중심 로컬 AI 환경 구축**: 외부 API 의존 없이 Ollama 엔진과 FastAPI를 결합한 비동기 추론 서버 개발.
 - **RAG 파이프라인 설계**: ChromaDB를 활용한 벡터 검색 및 Redis 기반 멀티턴(Multi-turn) 세션 관리 시스템 구현.

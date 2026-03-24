@@ -6,7 +6,7 @@
 <br>
 
 ### 💡 About Me
-- 📊 **Data-Driven Problem Solver**: 두산건설, 나이키 등에서의 실무 경험을 바탕으로 단순한 코딩을 넘어 비즈니스 임팩트를 창출하는 데이터 분석을 지향합니다.
+- 📊 **Data-Driven Problem Solver**: 도화엔지니어링, 나이키 등에서의 실무 경험을 바탕으로 단순한 코딩을 넘어 비즈니스 임팩트를 창출하는 데이터 분석을 지향합니다.
 - 💻 **Solid Foundation**: 6개월, 1000시간 이상의 집중적인 부트캠프 과정을 수료하며 데이터 전처리부터 딥러닝 모델링, 웹 크롤링(Selenium)까지 탄탄한 기술 스택을 구축했습니다.
 - 🌱 **Current Focus**: 이미지 분류 모델링(EfficientNetV2)의 최적화와 XAI(Grad-CAM, SHAP)를 활용한 모델 해석 가능성에 깊은 관심을 두고 있습니다.
 

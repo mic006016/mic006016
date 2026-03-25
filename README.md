@@ -15,11 +15,15 @@
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,react,mysql,redis,docker,aws&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,express,react,vite,materialui&theme=light" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,docker,aws,nginx,githubactions,linux&theme=light" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,git,github&theme=light" />
   </a>
 </p>
 

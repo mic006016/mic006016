@@ -35,7 +35,7 @@
 **FastAPI, React, LightGBM, SHAP, GeoJSON** | 👉 (https://github.com/mic006016/seoul-commercial-district-analysis)
 - **공간 기반 상권 분석**: 서울시 자치구 폴리곤 데이터(GeoJSON)와 프론트엔드 Map UI를 연동하여 직관적인 공간 분석 대시보드 구축.
 - **AI 다중 분류 앙상블 모델**: OOT(Out-Of-Time) 분할 검증을 적용하여 다음 분기 상권 매출 증감률을 3단계로 예측 (Accuracy 67.2%).
-- **XAI 기반 인사이트 도출**: SHAP를 활용해 '고물가 저항형 위축 상권', '기저효과 반등형 상권' 등 도시계획 및 창업 결정에 필요한 실질적 요인 분석.
+- **XAI 기반 인사이트 도출**: SHAP를 활용해 '고물가 저항형 위축 상권', '기저효과 반등형 상권' 등 창업 결정에 필요한 실질적 요인 분석.
 
 #### 2. ✈️ TRIPY: 지능형 개인화 여행 일정 & 스마트 앨범 플랫폼
 **Node.js, FastAPI, React, Docker, AWS** | 👉 (https://github.com/mic006016/multimodal-travel-scheduler)

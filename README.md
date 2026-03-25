@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋 Hi, there! 공간과 데이터를 연결하여 비즈니스 가치를 창출하는 AI Engineer/Data Analyst yello 입니다.</h2>
+  <h2>👋 Hi, there! 공간과 데이터를 연결하여 비즈니스 가치를 창출하는 AI Engineer/Data Analyst yello입니다.</h2>
   <p>단순한 수치 예측을 넘어, 도시 계획 관점의 공간 분석과 실무 비즈니스 인사이트를 도출하는 All-in-One 시스템을 구축합니다.</p>
 </div>
 

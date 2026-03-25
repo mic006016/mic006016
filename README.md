@@ -38,7 +38,7 @@
 - **XAI 기반 인사이트 도출**: SHAP를 활용해 '고물가 저항형 위축 상권', '기저효과 반등형 상권' 등 도시계획 및 창업 결정에 필요한 실질적 요인 분석.
 
 #### 2. ✈️ TRIPY: 지능형 개인화 여행 일정 & 스마트 앨범 플랫폼
-**Node.js, FastAPI, React, Docker, AWS** |(👉 (https://github.com/mic006016/multimodal-travel-scheduler)
+**Node.js, FastAPI, React, Docker, AWS** | 👉 (https://github.com/mic006016/multimodal-travel-scheduler)
 - **MSA 아키텍처 도입**: Node.js(메인)와 FastAPI(AI 추론) 투트랙 서버 구성으로 확장성 및 유지보수성 극대화.
 - **Computer Vision & 공간 데이터**: EXIF 메타데이터 추출 및 역지오코딩(OpenStreetMap)을 통한 위치 기반 자동 분류 적용.
 - **Data-Centric AI 최적화**: EfficientNetV2 기반 이미지 분류 모델 학습 및 Grad-CAM을 활용한 모델 의사결정 시각화.

@@ -44,7 +44,8 @@
 - **Data-Centric AI 최적화**: EfficientNetV2 기반 이미지 분류 모델 학습 및 Grad-CAM을 활용한 모델 의사결정 시각화.
 - **DevOps**: Docker Compose 및 GitHub Actions를 활용한 무중단 CI/CD 자동화 파이프라인 구축.
 
-#### 3. 🧠 Local LLM & RAG API Server
-**FastAPI, Ollama, ChromaDB, Redis** | 👉 (https://github.com/mic006016/ollama_test)
-- **보안 중심 로컬 AI 환경 구축**: 외부 API 의존 없이 Ollama 엔진과 FastAPI를 결합한 비동기 추론 서버 개발.
-- **RAG 파이프라인 설계**: ChromaDB를 활용한 벡터 검색 및 Redis 기반 멀티턴(Multi-turn) 세션 관리 시스템 구현.
+#### 3. 🛰️ GeoAI: 비동기 파이프라인 기반 위성영상 객체 탐지 및 공간 매핑 시스템
+**Node.js, Python, Redis, MySQL(Spatial), YOLOv8** | 👉 (https://github.com/mic006016/geo-referencing-ai-pipeline)
+- **비동기 분산 처리 및 공간 DB 설계**: Node.js(API)와 Python(추론) 워커를 Redis 큐로 완벽히 분리해 트래픽 병목을 방지하고, MySQL R-Tree 인덱스를 활용해 화면(BBox) 내 객체 고속 검색(ST_Within) 구현.
+- **공간 데이터 변환 알고리즘**: 단순 포맷 변경이 아닌, 메타데이터를 파싱하여 이미지 픽셀 좌표를 실제 글로벌 위경도 좌표계(EPSG:4326)로 역산하는 Affine Mapping 전처리 로직 직접 구현.
+- **학습 데이터 자동화 파이프라인 구축**: 원천 지리 공간 데이터(JSON)에서 유효한 다각형(Polygon) 좌표만 추출하고, 객체 크기와 위치를 YOLO 모델 입력 규격에 맞춰 0~1 사이로 정규화(Normalization)하여 학습 데이터셋을 일괄 구축.
